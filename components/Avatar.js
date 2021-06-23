@@ -5,4 +5,4 @@ function Avatar( { url, className } ) {
         />;
 }
 
-export default Avatar
+export default Avatar;
