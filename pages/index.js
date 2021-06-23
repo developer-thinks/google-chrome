@@ -4,13 +4,25 @@ import Avatar from "../components/Avatar";
 import {ViewGridIcon, SearchIcon} from "@heroicons/react/solid";
 import { MicrophoneIcon } from '@heroicons/react/solid';
 import Footer from './../components/Footer';
+import { useRef } from 'react';
+import {useRouter} from "next/router";
 
 
 
 export default function Home() {
 
+  const router = useRouter();
+  const searchInputRef = useRef(null);
+
   const search = e =>{
     e.preventDefault();
+
+    const term = searchInputRef.current.value;
+
+    if(!term) return;
+
+    router.push(`/search?term=${term}`);
+
   }
 
 
@@ -58,7 +70,10 @@ export default function Home() {
 
         <div className="flex w-full mt-5 px-5 py-3 hover:shadow-lg focus-within:shadow-lg max-w-md items-center rounded-full border border-gray-200 sm:max-w-xl lg:max-w-2xl ">
           <SearchIcon className="h-5 mr-3 text-gray-600 " />
-          <input className="focus:outline-none flex-grow" />
+          <input 
+            ref={searchInputRef} 
+            className="focus:outline-none flex-grow"
+           />
           <MicrophoneIcon className="h-5" />
           
         </div>
