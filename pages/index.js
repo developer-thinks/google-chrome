@@ -8,6 +8,12 @@ import Footer from './../components/Footer';
 
 
 export default function Home() {
+
+  const search = e =>{
+    e.preventDefault();
+  }
+
+
   return (
     <div className="flex flex-col items-center justify-center h-screen" >
       <Head>
@@ -58,8 +64,8 @@ export default function Home() {
         </div>
 
         <div className="flex flex-col w-1/2 space-y-2 justify-center mt-8 sm:space-y-0 sm:flex-row sm:space-x-4 ">
-          <button className="btn" > Google Search</button>
-          <button className="btn" >I'm feeling Lucky</button>
+          <button className="btn" onClick={search}> Google Search</button>
+          <button className="btn" onClick={search}>I'm feeling Lucky</button>
         </div>
 
       </form>
