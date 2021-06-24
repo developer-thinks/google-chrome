@@ -8,7 +8,7 @@ import SearchResults from './../components/SearchResults';
 function Search( {results} ) {
 
     const router = useRouter();
-    // console.log(results);
+    console.log(results);
 
     return (
         <div>
@@ -25,7 +25,7 @@ function Search( {results} ) {
 export default Search;
 
 export async  function getServerSideProps(context){
-    const useDummyData = false;
+    const useDummyData = true;
     const startIndex =  context.query.start || "0";
 
     const API_KEY = process.env.API_KEY;

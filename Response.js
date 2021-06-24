@@ -44,15 +44,15 @@ export default{
     "items": [
         {
             "kind": "customsearch#result",
-            "title": "India vs West Indies: Virat Kohli-Ajinkya Rahane break Sachin ...",
+            "title": "Github: sammed sankonatti ...",
             "htmlTitle": "India vs West Indies: <b>Virat</b> Kohli-Ajinkya Rahane break Sachin ...",
-            "link": "https://www.google.com/appserve/mkt/p/AFnwnKUITVN5ucwinXvUuLlcS7LksO8Mvs0MFUNTiZbHPWIUVcNf5Em5n3o89hy639o7eWHNBNyGFWoiOmWkwgaq9Bcvv9g_IngJ3ky-Atq4fsiP9nogK8yQT5hQRjqCQiKfKqV-b3aia-f0EJMSB-JCD57e-cThd9Ucf8KdYUIeqqzRIJ-4bxzIPecNmnm8sOdS42RIqk5QhG5r0qyIKtNBsH3TzWm95D4XLi2NnK9HZgWLJNbPwNWowoCG6k7_je4ejegbBChxJUKsamOYhzhptC_bD50qKCOivP68cqABtpMEq6UiegFrYxV58_Q",
+            "link": "https://github.com/sammed-sankonatti",
             "displayLink": "www.google.com",
-            "snippet": "Aug 25, 2019 ... The 104-stand between Ajinkya Rahane and Virat Kohli was the 8th century \nstand for the 4th wicket for India in Test matches – the most by any ...",
+            "snippet": "April 20,2021 ... sammed has joined the github community . \n checkout his profile the projects he has worked on and commits and contributions etc. He said that he is from ",
             "htmlSnippet": "Aug 25, 2019 <b>...</b> The 104-stand between Ajinkya Rahane and <b>Virat</b> Kohli was the 8th century <br>\nstand for the 4th wicket for India in Test matches – the most by any&nbsp;...",
             "cacheId": "cGk8-BuunKsJ",
-            "formattedUrl": "https://www.google.com/.../ AFnwnKUITVN5ucwinXvUuLlcS7LksO8Mvs0MFUNTiZbHPWIUVcNf5...",
-            "htmlFormattedUrl": "https://www.google.com/.../ AFnwnKUITVN5ucwinXvUuLlcS7LksO8Mvs0MFUNTiZbHPWIUVcNf5...",
+            "formattedUrl": "https://github.com/sammed-sankonatti",
+            "htmlFormattedUrl": "https://github.com/sammed-sankonatti",
             "pagemap": {
                 "cse_thumbnail": [
                     {
@@ -101,14 +101,14 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "India vs South Africa: India Predicted XI for 1st T20I - Virat Kohli to ...",
+            "title": "sammed sankonatti - BMS college of engineering Bangalore ...",
             "htmlTitle": "India vs South Africa: India Predicted XI for 1st T20I - <b>Virat</b> Kohli to ...",
-            "link": "https://www.google.com/appserve/mkt/p/AFnwnKWSwbhufm1pGJWxTsEuF3OueXTAkzHyozrwx0GTLCUjlRsCI_ehnZNPPpwFu0BY06P6K7m0b2GWTxsx_tE6ejfNlNY05qyERCCznco65Id-x8W1h9zRzzH-9TMLDP7VbQHmIYrPYR8RVeS39t7jiCLhNj_c6koDp9Cvu2u1jZtHTtSJZZ4vVW49awMqFz7aHJXwz1BeK2Ian6VATqTpIRexvV3q50wz5KGsQYEtIasrks9SQe0y52XaHHURhsfglD3_Qj7JObvxtV73e8aMm_sRICsdgfpb8EbFZUsiLDFCfr76sQ",
+            "link": "https://www.linkedin.com/in/sammed-sankonatti-bb7492148/",
             "displayLink": "www.google.com",
-            "snippet": "Sep 15, 2019 ... India will begin their home season with an eye on next year's T20 World Cup as \nthe Virat Kohli-led side takes on South Africa in the first of the ...",
+            "snippet": "sammed sankonatti | Bangalore Urban, Karnataka, India | Student at BMS college of engineering Bangalore | 47 connections | See sammed's complete profile ...",
             "htmlSnippet": "Sep 15, 2019 <b>...</b> India will begin their home season with an eye on next year&#39;s T20 World Cup as <br>\nthe <b>Virat</b> Kohli-led side takes on South Africa in the first of the&nbsp;...",
             "cacheId": "jMz1dmL9Qx0J",
-            "formattedUrl": "https://www.google.com/.../ AFnwnKWSwbhufm1pGJWxTsEuF3OueXTAkzHyozrwx0GTLCUjlRsCI_ ...",
+            "formattedUrl": "https://www.linkedin.com/in/sammed-sankonatti-bb7492148/",
             "htmlFormattedUrl": "https://www.google.com/.../ AFnwnKWSwbhufm1pGJWxTsEuF3OueXTAkzHyozrwx0GTLCUjlRsCI_ ...",
             "pagemap": {
                 "cse_thumbnail": [
@@ -158,14 +158,14 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️Day night test match in india",
-            "htmlTitle": "️Day night test match in india",
-            "link": "https://www.google.com/mymaps/viewer?mid=1CctBl2f1IUECK4YkfZ_fMJLuV_Y&hl=en_US",
+            "title": "️Sammed Sankonatti | Facebook",
+            "htmlTitle": "️Sammed Sankonatti | Facebook",
+            "link": "https://www.facebook.com/samsank31",
             "displayLink": "www.google.com",
-            "snippet": "Virat has had a beautiful last couple of years and this is something he has to go \nthrough. Australia lost a couple of wickets early on Day 4, but Shaun Marsh and ...",
+            "snippet": "Sammed Sankonatti is on Facebook. Join Facebook to connect with Sammed Sankonatti and others you may know. Facebook gives people the power to share​ ...",
             "htmlSnippet": "<b>Virat</b> has had a beautiful last couple of years and this is something he has to go <br>\nthrough. Australia lost a couple of wickets early on Day 4, but Shaun Marsh and&nbsp;...",
             "cacheId": "cRV9oiE9fQIJ",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...fMJLuV_Y&hl=en...",
+            "formattedUrl": "https://www.facebook.com/samsank31",
             "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...fMJLuV_Y&amp;hl=en...",
             "pagemap": {
                 "cse_thumbnail": [
@@ -206,15 +206,15 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️Test match schedule sri lanka",
+            "title": "️professor_samm | CodeChef User Profile for Sammed Sankonatti",
             "htmlTitle": "️Test match schedule sri lanka",
-            "link": "https://www.google.com/mymaps/viewer?mid=12hvgofVsLFX39yhjiwz-OMjJ7yQ&hl=en_US",
+            "link": "https://www.codechef.com/users/professor_samm",
             "displayLink": "www.google.com",
-            "snippet": "Virat Kohli has his team in a huddle. There are many lopsided contests \nhappening. He was supported well by Shami and Ashwin. Another maiden on the \ntrot.",
+            "snippet": "... Student/Professional: Student; Institution: BMS College of Engineering, Bangalore Karnataka, India; Teams List: List of teams by Sammed Sankonatti ...",
             "htmlSnippet": "<b>Virat</b> Kohli has his team in a huddle. There are many lopsided contests <br>\nhappening. He was supported well by Shami and Ashwin. Another maiden on the <br>\ntrot.",
             "cacheId": "tCsRZkhxNX4J",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...OMjJ7yQ&hl=en_US",
-            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...OMjJ7yQ&amp;hl=en_US",
+            "formattedUrl": "https://www.codechef.com/users/professor_samm",
+            "htmlFormattedUrl": "https://www.codechef.com/users/professor_samm",
             "pagemap": {
                 "cse_thumbnail": [
                     {
@@ -254,15 +254,15 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️World cup 2015 chat image",
-            "htmlTitle": "️World cup 2015 chat image",
-            "link": "https://www.google.com/mymaps/viewer?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
+            "title": "️Personal website of sammed sankonatti",
+            "htmlTitle": "️Personal website of sammed sankonatti",
+            "link": "https://sammed-sankonatti.github.io/interactive-resume/",
             "displayLink": "www.google.com",
-            "snippet": "The top order is expected to picked from the list of Murali Vijay, Shikhar Dhawan, \nAjinkya Rahane, Virat Kohli, Suresh Raina, Ambati Rayudu and Mahendra ...",
+            "snippet": "This is his personal portfilio website to contact, visit here.\n look about his profile , education, skills, various projects he worked on alone ...  ",
             "htmlSnippet": "The top order is expected to picked from the list of Murali Vijay, Shikhar Dhawan, <br>\nAjinkya Rahane, <b>Virat</b> Kohli, Suresh Raina, Ambati Rayudu and Mahendra&nbsp;...",
             "cacheId": "3m0gtuUU0C8J",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1FvaLV1LA...hl=en...",
-            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1FvaLV1LA...hl=en...",
+            "formattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
+            "htmlFormattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
@@ -302,15 +302,15 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️India srilanka test match live video streaming",
-            "htmlTitle": "️India srilanka test match live video streaming",
-            "link": "https://www.google.com/mymaps/viewer?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
+            "title": "️Instagram | sammed.sankonatti | Profile",
+            "htmlTitle": "️Instagram | sammed.sankonatti | Profile",
+            "link": "https://www.instagram.com/sammed.sankonatti/",
             "displayLink": "www.google.com",
-            "snippet": "India Squad: Virat Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar ... \nLokesh Rahul and his 164-run stand with skipper Virat Kohli, who missed out on \nhis ...",
+            "snippet": "45volgers, volg 36, 9 plasings – largest photo sharing app. He is available in instagram as Sammed Sankonatti (@sammed.sankonatti) ... ",
             "htmlSnippet": "India Squad: <b>Virat</b> Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar ... <br>\nLokesh Rahul and his 164-run stand with skipper <b>Virat</b> Kohli, who missed out on <br>\nhis&nbsp;...",
             "cacheId": "-62vJUPhEG4J",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1...hl=en_US",
-            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1...hl=en_US",
+            "formattedUrl": "https://www.instagram.com/sammed.sankonatti/",
+            "htmlFormattedUrl": "https://www.instagram.com/sammed.sankonatti/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
@@ -350,15 +350,15 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️Test match streaming video",
+            "title": "️Profile at Competative coding site | codeforces",
             "htmlTitle": "️Test match streaming video",
-            "link": "https://www.google.com/mymaps/viewer?mid=1IbWh_0Diyr_SefxtGvjUCmxlxKvSdAGh&hl=en_US",
+            "link": "https://codeforces.com/profile/professor.sam",
             "displayLink": "www.google.com",
-            "snippet": "... Test series, 3 Match ODI series and T20 series too in the captaincy of Virat \nKohli and become the first captain who won all series in their debut in captaincy.",
+            "snippet": " Codeforces. Programming competitions and contests, programming community. Codeforces is one of the thoughest competative coding sites available for contests and solving the problems",
             "htmlSnippet": "... Test series, 3 Match ODI series and T20 series too in the captaincy of <b>Virat</b> <br>\nKohli and become the first captain who won all series in their debut in captaincy.",
             "cacheId": "UL9Sa_vaChoJ",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1IbWh_0Diyr...hl...",
-            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1IbWh_0Diyr...hl...",
+            "formattedUrl": "https://codeforces.com/profile/professor.sam",
+            "htmlFormattedUrl": "https://codeforces.com/profile/professor.sam",
             "pagemap": {
                 "cse_thumbnail": [
                     {
@@ -398,15 +398,15 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️India vs australia live commentary on radio",
-            "htmlTitle": "️India vs australia live commentary on radio",
-            "link": "https://www.google.com/mymaps/viewer?mid=1EmMKk1hVuIIKxv-r5qno-fBkWGr1-Ezc&hl=en_US",
+            "title": "️LeetCode - The World's Leading Online Programming ...",
+            "htmlTitle": "️LeetCode - The World's Leading Online Programming ...",
+            "link": "https://leetcode.com/sammed-sankonatti/",
             "displayLink": "www.google.com",
-            "snippet": "VIRAT KOHLI says that it looks like a good wicket to bat on. The series will also \nbe live blogged at. This is a big wicket as he has the ability to take the game ...",
+            "snippet": "Leetcode mission is to help you improve yourself and land your dream job. solved over 100+ leetcode problems and has a github repository of solutions ..",
             "htmlSnippet": "<b>VIRAT</b> KOHLI says that it looks like a good wicket to bat on. The series will also <br>\nbe live blogged at. This is a big wicket as he has the ability to take the game&nbsp;...",
             "cacheId": "F858jKXET9wJ",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid=1EmMKk1hVuIIKxv...",
-            "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid=1EmMKk1hVuIIKxv...",
+            "formattedUrl": "https://leetcode.com/sammed-sankonatti/",
+            "htmlFormattedUrl": "https://leetcode.com/sammed-sankonatti/",
             "pagemap": {
                 "cse_thumbnail": [
                     {
