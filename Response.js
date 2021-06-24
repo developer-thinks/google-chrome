@@ -156,6 +156,106 @@ export default{
                 ]
             }
         },
+
+           {
+            "kind": "customsearch#result",
+            "title": "️Personal website of sammed sankonatti",
+            "htmlTitle": "️Personal website of sammed sankonatti",
+            "link": "https://sammed-sankonatti.github.io/interactive-resume/",
+            "displayLink": "www.google.com",
+            "snippet": "This is his personal portfilio website to contact, visit here.\n look about his profile , education, skills, various projects he worked on alone ...  ",
+            "htmlSnippet": "The top order is expected to picked from the list of Murali Vijay, Shikhar Dhawan, <br>\nAjinkya Rahane, <b>Virat</b> Kohli, Suresh Raina, Ambati Rayudu and Mahendra&nbsp;...",
+            "cacheId": "3m0gtuUU0C8J",
+            "formattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
+            "htmlFormattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8MrKhyE2DPkfFNTcwuy5CqILf-9ZKOmewNpbqEyfa-FklNWxxZeVwkto",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "website": [
+                    {
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
+                        "name": "❤️World cup 2015 chat image",
+                        "description": "❤️ http://imlunapo.dietaforlove.ru/?gdat&keyword=world+cup+2015+chat+image World cup 2015 chat image To date the award has always gone to a member of the winning side. The ICC decided that...",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "❤️World cup 2015 chat image",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+                        "twitter:description": "❤️ http://imlunapo.dietaforlove.ru/?gdat&keyword=world+cup+2015+chat+image\n\n\n\n\n\n\n\n\n\n\n\nWorld cup 2015 chat image\n\nTo date the award has always gone to a member of the winning side. The ICC decided that England should host the first tournament because it was ready to devote the resources required to organising the inaugural event. Archived from on 4 November 2014. Eagles and Samu Manoa is ready to prove it on the biggest stage after missing the 2011 event due to his contract with English club Northampton. Retrieved 29 March 2015. Retrieved 30 June 2013. Four needed to be inside it at all times. He will also miss the tri-series against England and Australia, starting on January 16.\n\nThe All Blacks have become the first nation to defend their World Cup title by beating Australia in another tense and agonisingly close final. The number of teams participating in the event increased from twelve to fourteen. The format ensures that each team gets to play a minimum of six matches even if they exit in the group sta",
+                        "og:title": "❤️World cup 2015 chat image",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
+                        "og:description": "❤️ http://imlunapo.dietaforlove.ru/?gdat&keyword=world+cup+2015+chat+image\n\n\n\n\n\n\n\n\n\n\n\nWorld cup 2015 chat image\n\nTo date the award has always gone to a member of the winning side. The ICC decided that England should host the first tournament because it was ready to devote the resources required to organising the inaugural event. Archived from on 4 November 2014. Eagles and Samu Manoa is ready to prove it on the biggest stage after missing the 2011 event due to his contract with English club Northampton. Retrieved 29 March 2015. Retrieved 30 June 2013. Four needed to be inside it at all times. He will also miss the tri-series against England and Australia, starting on January 16.\n\nThe All Blacks have become the first nation to defend their World Cup title by beating Australia in another tense and agonisingly close final. The number of teams participating in the event increased from twelve to fourteen. The format ensures that each team gets to play a minimum of six matches even if they exit in the group sta",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://khms0.googleapis.com/kh?v=747&hl=en&x=0&y=0&z=0"
+                    }
+                ]
+            }
+        },
+
+
+         {
+            "kind": "customsearch#result",
+            "title": "️Instagram | sammed.sankonatti | Profile",
+            "htmlTitle": "️Instagram | sammed.sankonatti | Profile",
+            "link": "https://www.instagram.com/sammed.sankonatti/",
+            "displayLink": "www.google.com",
+            "snippet": "45volgers, volg 36, 9 plasings – largest photo sharing app. He is available in instagram as Sammed Sankonatti (@sammed.sankonatti) ... ",
+            "htmlSnippet": "India Squad: <b>Virat</b> Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar ... <br>\nLokesh Rahul and his 164-run stand with skipper <b>Virat</b> Kohli, who missed out on <br>\nhis&nbsp;...",
+            "cacheId": "-62vJUPhEG4J",
+            "formattedUrl": "https://www.instagram.com/sammed.sankonatti/",
+            "htmlFormattedUrl": "https://www.instagram.com/sammed.sankonatti/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8MrKhyE2DPkfFNTcwuy5CqILf-9ZKOmewNpbqEyfa-FklNWxxZeVwkto",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "website": [
+                    {
+                        "image": "https://www.google.com/maps/d/thumbnail?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
+                        "name": "❤️India srilanka test match live video streaming",
+                        "description": "❤️ http://caudiomonslyn.casinono.ru/?gdat&keyword=india+srilanka+test+match+live+video+streaming India srilanka test match live video streaming Sri Lanka Squad: Angelo Mathews cKusal Perera,...",
+                        "url": "https://www.google.com/maps/d/viewer?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "❤️India srilanka test match live video streaming",
+                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+                        "twitter:description": "❤️ http://caudiomonslyn.casinono.ru/?gdat&keyword=india+srilanka+test+match+live+video+streaming\n\n\n\n\n\n\n\n\n\n\n\nIndia srilanka test match live video streaming\n\nSri Lanka Squad: Angelo Mathews cKusal Perera, Tillakaratne Dilshan, Upul Tharanga, Kumar Sangakkara, Mahela Jayawardene, Ashan Priyanjan, Niroshan Dickwella wkThisara Perera, Nuwan Kulasekara, Dhammika Prasad, Lahiru Gamage, Chaturanga de Silva, Seekuge Prasanna, Suraj Randiv. Following defeat in Galle, India, stormed to an emphatic 278-run triumph to leave the series level and hand Virat Kohli his first Test victory as captain. India Squad: Virat Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar Dhawan, Wriddhiman Saha wkRavichandran Ashwin, Ravindra Jadeja, Mohammad Shami, Umesh Yadav, Ishant Sharma, Ajinkya Rahane, Suresh Raina, Ambati Rayudu, Amit Mishra. A nasty bouncer and that hits Lahiru Thirimanne flush on the right hand. He has survived many times today with the latest one coming off Dushmantha Chameera bowling. It is all about handli",
+                        "og:title": "❤️India srilanka test match live video streaming",
+                        "og:url": "https://www.google.com/maps/d/viewer?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
+                        "og:description": "❤️ http://caudiomonslyn.casinono.ru/?gdat&keyword=india+srilanka+test+match+live+video+streaming\n\n\n\n\n\n\n\n\n\n\n\nIndia srilanka test match live video streaming\n\nSri Lanka Squad: Angelo Mathews cKusal Perera, Tillakaratne Dilshan, Upul Tharanga, Kumar Sangakkara, Mahela Jayawardene, Ashan Priyanjan, Niroshan Dickwella wkThisara Perera, Nuwan Kulasekara, Dhammika Prasad, Lahiru Gamage, Chaturanga de Silva, Seekuge Prasanna, Suraj Randiv. Following defeat in Galle, India, stormed to an emphatic 278-run triumph to leave the series level and hand Virat Kohli his first Test victory as captain. India Squad: Virat Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar Dhawan, Wriddhiman Saha wkRavichandran Ashwin, Ravindra Jadeja, Mohammad Shami, Umesh Yadav, Ishant Sharma, Ajinkya Rahane, Suresh Raina, Ambati Rayudu, Amit Mishra. A nasty bouncer and that hits Lahiru Thirimanne flush on the right hand. He has survived many times today with the latest one coming off Dushmantha Chameera bowling. It is all about handli",
+                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://khms0.googleapis.com/kh?v=747&hl=en&x=0&y=0&z=0"
+                    }
+                ]
+            }
+        },
+        
         {
             "kind": "customsearch#result",
             "title": "️Sammed Sankonatti | Facebook",
@@ -252,102 +352,8 @@ export default{
                 ]
             }
         },
-        {
-            "kind": "customsearch#result",
-            "title": "️Personal website of sammed sankonatti",
-            "htmlTitle": "️Personal website of sammed sankonatti",
-            "link": "https://sammed-sankonatti.github.io/interactive-resume/",
-            "displayLink": "www.google.com",
-            "snippet": "This is his personal portfilio website to contact, visit here.\n look about his profile , education, skills, various projects he worked on alone ...  ",
-            "htmlSnippet": "The top order is expected to picked from the list of Murali Vijay, Shikhar Dhawan, <br>\nAjinkya Rahane, <b>Virat</b> Kohli, Suresh Raina, Ambati Rayudu and Mahendra&nbsp;...",
-            "cacheId": "3m0gtuUU0C8J",
-            "formattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
-            "htmlFormattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8MrKhyE2DPkfFNTcwuy5CqILf-9ZKOmewNpbqEyfa-FklNWxxZeVwkto",
-                        "width": "225",
-                        "height": "225"
-                    }
-                ],
-                "website": [
-                    {
-                        "image": "https://www.google.com/maps/d/thumbnail?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
-                        "name": "❤️World cup 2015 chat image",
-                        "description": "❤️ http://imlunapo.dietaforlove.ru/?gdat&keyword=world+cup+2015+chat+image World cup 2015 chat image To date the award has always gone to a member of the winning side. The ICC decided that...",
-                        "url": "https://www.google.com/maps/d/viewer?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
-                        "og:type": "website",
-                        "twitter:card": "summary_large_image",
-                        "twitter:title": "❤️World cup 2015 chat image",
-                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
-                        "twitter:description": "❤️ http://imlunapo.dietaforlove.ru/?gdat&keyword=world+cup+2015+chat+image\n\n\n\n\n\n\n\n\n\n\n\nWorld cup 2015 chat image\n\nTo date the award has always gone to a member of the winning side. The ICC decided that England should host the first tournament because it was ready to devote the resources required to organising the inaugural event. Archived from on 4 November 2014. Eagles and Samu Manoa is ready to prove it on the biggest stage after missing the 2011 event due to his contract with English club Northampton. Retrieved 29 March 2015. Retrieved 30 June 2013. Four needed to be inside it at all times. He will also miss the tri-series against England and Australia, starting on January 16.\n\nThe All Blacks have become the first nation to defend their World Cup title by beating Australia in another tense and agonisingly close final. The number of teams participating in the event increased from twelve to fourteen. The format ensures that each team gets to play a minimum of six matches even if they exit in the group sta",
-                        "og:title": "❤️World cup 2015 chat image",
-                        "og:url": "https://www.google.com/maps/d/viewer?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US",
-                        "og:description": "❤️ http://imlunapo.dietaforlove.ru/?gdat&keyword=world+cup+2015+chat+image\n\n\n\n\n\n\n\n\n\n\n\nWorld cup 2015 chat image\n\nTo date the award has always gone to a member of the winning side. The ICC decided that England should host the first tournament because it was ready to devote the resources required to organising the inaugural event. Archived from on 4 November 2014. Eagles and Samu Manoa is ready to prove it on the biggest stage after missing the 2011 event due to his contract with English club Northampton. Retrieved 29 March 2015. Retrieved 30 June 2013. Four needed to be inside it at all times. He will also miss the tri-series against England and Australia, starting on January 16.\n\nThe All Blacks have become the first nation to defend their World Cup title by beating Australia in another tense and agonisingly close final. The number of teams participating in the event increased from twelve to fourteen. The format ensures that each team gets to play a minimum of six matches even if they exit in the group sta",
-                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1FvaLV1LA_XBCuzojLVw5YmKGrXA&hl=en_US"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://khms0.googleapis.com/kh?v=747&hl=en&x=0&y=0&z=0"
-                    }
-                ]
-            }
-        },
-        {
-            "kind": "customsearch#result",
-            "title": "️Instagram | sammed.sankonatti | Profile",
-            "htmlTitle": "️Instagram | sammed.sankonatti | Profile",
-            "link": "https://www.instagram.com/sammed.sankonatti/",
-            "displayLink": "www.google.com",
-            "snippet": "45volgers, volg 36, 9 plasings – largest photo sharing app. He is available in instagram as Sammed Sankonatti (@sammed.sankonatti) ... ",
-            "htmlSnippet": "India Squad: <b>Virat</b> Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar ... <br>\nLokesh Rahul and his 164-run stand with skipper <b>Virat</b> Kohli, who missed out on <br>\nhis&nbsp;...",
-            "cacheId": "-62vJUPhEG4J",
-            "formattedUrl": "https://www.instagram.com/sammed.sankonatti/",
-            "htmlFormattedUrl": "https://www.instagram.com/sammed.sankonatti/",
-            "pagemap": {
-                "cse_thumbnail": [
-                    {
-                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8MrKhyE2DPkfFNTcwuy5CqILf-9ZKOmewNpbqEyfa-FklNWxxZeVwkto",
-                        "width": "225",
-                        "height": "225"
-                    }
-                ],
-                "website": [
-                    {
-                        "image": "https://www.google.com/maps/d/thumbnail?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
-                        "name": "❤️India srilanka test match live video streaming",
-                        "description": "❤️ http://caudiomonslyn.casinono.ru/?gdat&keyword=india+srilanka+test+match+live+video+streaming India srilanka test match live video streaming Sri Lanka Squad: Angelo Mathews cKusal Perera,...",
-                        "url": "https://www.google.com/maps/d/viewer?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US"
-                    }
-                ],
-                "metatags": [
-                    {
-                        "og:image": "https://www.google.com/maps/d/thumbnail?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
-                        "og:type": "website",
-                        "twitter:card": "summary_large_image",
-                        "twitter:title": "❤️India srilanka test match live video streaming",
-                        "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
-                        "twitter:description": "❤️ http://caudiomonslyn.casinono.ru/?gdat&keyword=india+srilanka+test+match+live+video+streaming\n\n\n\n\n\n\n\n\n\n\n\nIndia srilanka test match live video streaming\n\nSri Lanka Squad: Angelo Mathews cKusal Perera, Tillakaratne Dilshan, Upul Tharanga, Kumar Sangakkara, Mahela Jayawardene, Ashan Priyanjan, Niroshan Dickwella wkThisara Perera, Nuwan Kulasekara, Dhammika Prasad, Lahiru Gamage, Chaturanga de Silva, Seekuge Prasanna, Suraj Randiv. Following defeat in Galle, India, stormed to an emphatic 278-run triumph to leave the series level and hand Virat Kohli his first Test victory as captain. India Squad: Virat Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar Dhawan, Wriddhiman Saha wkRavichandran Ashwin, Ravindra Jadeja, Mohammad Shami, Umesh Yadav, Ishant Sharma, Ajinkya Rahane, Suresh Raina, Ambati Rayudu, Amit Mishra. A nasty bouncer and that hits Lahiru Thirimanne flush on the right hand. He has survived many times today with the latest one coming off Dushmantha Chameera bowling. It is all about handli",
-                        "og:title": "❤️India srilanka test match live video streaming",
-                        "og:url": "https://www.google.com/maps/d/viewer?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US",
-                        "og:description": "❤️ http://caudiomonslyn.casinono.ru/?gdat&keyword=india+srilanka+test+match+live+video+streaming\n\n\n\n\n\n\n\n\n\n\n\nIndia srilanka test match live video streaming\n\nSri Lanka Squad: Angelo Mathews cKusal Perera, Tillakaratne Dilshan, Upul Tharanga, Kumar Sangakkara, Mahela Jayawardene, Ashan Priyanjan, Niroshan Dickwella wkThisara Perera, Nuwan Kulasekara, Dhammika Prasad, Lahiru Gamage, Chaturanga de Silva, Seekuge Prasanna, Suraj Randiv. Following defeat in Galle, India, stormed to an emphatic 278-run triumph to leave the series level and hand Virat Kohli his first Test victory as captain. India Squad: Virat Kohli cMurali Vijay, Stuart Binny, Akshar Patel, Shikhar Dhawan, Wriddhiman Saha wkRavichandran Ashwin, Ravindra Jadeja, Mohammad Shami, Umesh Yadav, Ishant Sharma, Ajinkya Rahane, Suresh Raina, Ambati Rayudu, Amit Mishra. A nasty bouncer and that hits Lahiru Thirimanne flush on the right hand. He has survived many times today with the latest one coming off Dushmantha Chameera bowling. It is all about handli",
-                        "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1_LglifmYrPSLQJumxnICPggd46c&hl=en_US"
-                    }
-                ],
-                "cse_image": [
-                    {
-                        "src": "https://khms0.googleapis.com/kh?v=747&hl=en&x=0&y=0&z=0"
-                    }
-                ]
-            }
-        },
+     
+   
         {
             "kind": "customsearch#result",
             "title": "️Profile at Competative coding site | codeforces",
@@ -446,14 +452,14 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️Australia india test match results",
+            "title": "corona tracker by sammed sankonatti",
             "htmlTitle": "️Australia india test match results",
-            "link": "https://www.google.com/mymaps/viewer?usp=sharing&mid=16Nyob4UG77gCdWWQQqLMGMj7Y-NHfnwo",
+            "link": "https://github.com/sammed-sankonatti/corona-tracker",
             "displayLink": "www.google.com",
-            "snippet": "Indian captain Virat Kohli called his men in at 9-603 to put Australia in for a rough \n30 minutes before the close of play. This was followed by limited overs ...",
+            "snippet": "This is one of the interesting project, ReactJs application for viewing covid-19 statistics like conformed, recovered, deaths etc of each country and also visualize them in charts  ...",
             "htmlSnippet": "Indian captain <b>Virat</b> Kohli called his men in at 9-603 to put Australia in for a rough <br>\n30 minutes before the close of play. This was followed by limited overs&nbsp;...",
             "cacheId": "JKiKsHkv0KEJ",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&mid...NHfnwo",
+            "formattedUrl": "https://github.com/sammed-sankonatti/corona-tracker",
             "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?usp=sharing&amp;mid...NHfnwo",
             "pagemap": {
                 "cse_thumbnail": [
@@ -494,14 +500,14 @@ export default{
         },
         {
             "kind": "customsearch#result",
-            "title": "️2nd t20 match india vs australia 2016",
-            "htmlTitle": "️2nd t20 match india vs australia 2016",
-            "link": "https://www.google.com/mymaps/viewer?mid=1WLgw0P6HoXXcJVO56RM9jvbUFz_UTQfh&hl=en_US",
+            "title": "️contact sammed sankonatti by filling this form",
+            "htmlTitle": "️contact sammed sankonatti by filling this form",
+            "link": "https://sammed-sankonatti.github.io/contact-me/",
             "displayLink": "www.google.com",
-            "snippet": "Virat Kohli with his unbeaten 59 runs was voted man of the match as India finally \nwins a series in ... Yet another run-out between Virat Kohli and Rohit Sharma.",
+            "snippet": "By filling this simple form developed in pure HTML ,CSS, JAVASCRIPT you can easily contact him along with your messages and any queries along with ...",
             "htmlSnippet": "<b>Virat</b> Kohli with his unbeaten 59 runs was voted man of the match as India finally <br>\nwins a series in ... Yet another run-out between <b>Virat</b> Kohli and Rohit Sharma.",
             "cacheId": "2WJjQPAY_t0J",
-            "formattedUrl": "https://www.google.com/mymaps/viewer?mid...UTQfh&hl=en_US",
+            "formattedUrl": "https://sammed-sankonatti.github.io/contact-me/",
             "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...UTQfh&amp;hl=en_US",
             "pagemap": {
                 "website": [
