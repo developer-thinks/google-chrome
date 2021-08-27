@@ -1,11 +1,25 @@
 import PaginationButtons from './PaginationButtons';
+import Image  from 'next/image';
 
 function SearchResults({results}) {
 
     return (
         <div className="mx-auto w-full px-3 sm:pl-[5%] md: pl-[14%] lg:pl-52 " >
             <p className="text-gray-600 text-md mb-5 mt-3" > About {results.searchInformation?.formattedTotalResults} Results ( {results.searchInformation?.formattedSearchTime} seconds)  </p>
-
+            <Image 
+            src="https://www.linkpicture.com/q/IMG_20210629_105415.jpg"
+            width={250}
+            height={280}
+            className="cursor-pointer  "
+            
+        />
+        {/* <Image 
+            src="https://www.linkpicture.com/q/IMG_20210629_105415.jpg"
+            width={250}
+            height={280}
+            className="cursor-pointer  "
+            
+        /> */}
             {results.items?.map((result)=>(
                     <div key={result.link} className="max-w-xl  mb-8" >
                         <div className="group" >

@@ -19,7 +19,7 @@ function Header() {
     }
 
     return (
-        <header className='sticky top-0 bg-white' >
+        <header className='sticky top-0 bg-white z-10' >
             <div className='flex w-full p-6 items-center'>
          <Image 
             src="https://www.google.co.uk/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
