@@ -1,3 +1,1 @@
-custom Google-chrome
-<a href="https://chrome-ivory.vercel.app/"> Visit my google </a>
-
+Google chrome as a resume
