@@ -1,13 +1,16 @@
 import PaginationButtons from './PaginationButtons';
 import Image  from 'next/image';
 
+// results.searchInformation?.formattedTotalResults
+// results.searchInformation?.formattedSearchTime
+
 function SearchResults({results}) {
 
     return (
         <div className="mx-auto w-full px-3 sm:pl-[5%] md: pl-[14%] lg:pl-52 " >
-            <p className="text-gray-600 text-md mb-5 mt-3" > About {results.searchInformation?.formattedTotalResults} Results ( {results.searchInformation?.formattedSearchTime} seconds)  </p>
+            <p className="text-gray-600 text-md mb-5 mt-3" > About {11} Results ( {0.45} seconds)  </p>
           
-        <Image 
+        {/* <Image 
             src="https://www.linkpicture.com/q/IMG_20210626_125723-1.jpg"
             width={200}
             height={240}
@@ -27,7 +30,7 @@ function SearchResults({results}) {
             height={240}
             className="cursor-pointer  "
             
-        />
+        /> */}
         {/* <Image 
             src="https://www.linkpicture.com/q/IMG_20210628_110135-1.jpg"
             width={250}

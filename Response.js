@@ -60,16 +60,16 @@ export default{
             "formattedUrl": "https://www.linkedin.com/in/sammed-sankonatti-bb7492148/",
             "htmlFormattedUrl": "https://www.google.com/.../ AFnwnKWSwbhufm1pGJWxTsEuF3OueXTAkzHyozrwx0GTLCUjlRsCI_ ...",
         },
-        {
-            "kind": "customsearch#result",
-            "title": "️Personal website of sammed sankonatti",
-            "link": "https://sammed-sankonatti.github.io/interactive-resume/",
-            "displayLink": "www.google.com",
-            "snippet": "This is his personal portfilio website to contact, visit here.\n look about his profile , education, skills, various projects he worked on alone ...  ",
-            "formattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
-            "htmlFormattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "️Personal website of sammed sankonatti",
+        //     "link": "https://sammed-sankonatti.github.io/interactive-resume/",
+        //     "displayLink": "www.google.com",
+        //     "snippet": "This is his personal portfilio website to contact, visit here.\n look about his profile , education, skills, various projects he worked on alone ...  ",
+        //     "formattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
+        //     "htmlFormattedUrl": "https://sammed-sankonatti.github.io/interactive-resume/",
          
-        },
+        // },
         {
             "kind": "customsearch#result",
             "title": "️Instagram | sammed.sankonatti | Profile",
@@ -90,27 +90,27 @@ export default{
             "htmlFormattedUrl": "https://www.google.com/mymaps/viewer?mid...fMJLuV_Y&amp;hl=en...",
           
         },
-        {
-            "kind": "customsearch#result",
-            "title": "️professor_samm | CodeChef User Profile for Sammed Sankonatti",
-            "link": "https://www.codechef.com/users/professor_samm",
-            "displayLink": "www.google.com",
-            "snippet": "... Student/Professional: Student; Institution: BMS College of Engineering, Bangalore Karnataka, India; Teams List: List of teams by Sammed Sankonatti ...",
-            "formattedUrl": "https://www.codechef.com/users/professor_samm",
-            "htmlFormattedUrl": "https://www.codechef.com/users/professor_samm",
-        },
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "️professor_samm | CodeChef User Profile for Sammed Sankonatti",
+        //     "link": "https://www.codechef.com/users/professor_samm",
+        //     "displayLink": "www.google.com",
+        //     "snippet": "... Student/Professional: Student; Institution: BMS College of Engineering, Bangalore Karnataka, India; Teams List: List of teams by Sammed Sankonatti ...",
+        //     "formattedUrl": "https://www.codechef.com/users/professor_samm",
+        //     "htmlFormattedUrl": "https://www.codechef.com/users/professor_samm",
+        // },
      
    
-        {
-            "kind": "customsearch#result",
-            "title": "️Profile at Competative coding site | codeforces",
-            "link": "https://codeforces.com/profile/professor.sam",
-            "displayLink": "www.google.com",
-            "snippet": " Codeforces. Programming competitions and contests, programming community. Codeforces is one of the thoughest competative coding sites available for contests and solving the problems",
-            "formattedUrl": "https://codeforces.com/profile/professor.sam",
-            "htmlFormattedUrl": "https://codeforces.com/profile/professor.sam",
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "️Profile at Competative coding site | codeforces",
+        //     "link": "https://codeforces.com/profile/professor.sam",
+        //     "displayLink": "www.google.com",
+        //     "snippet": " Codeforces. Programming competitions and contests, programming community. Codeforces is one of the thoughest competative coding sites available for contests and solving the problems",
+        //     "formattedUrl": "https://codeforces.com/profile/professor.sam",
+        //     "htmlFormattedUrl": "https://codeforces.com/profile/professor.sam",
       
-        },
+        // },
         {
             "kind": "customsearch#result",
             "title": "️LeetCode - The World's Leading Online Programming ...",
@@ -147,33 +147,33 @@ export default{
             "snippet": "The simplest version of the famous ecommerce website Amazon, built in NextJs , technologies suchas server side rendering , checkout functionality etc are involved ...  ",
             "formattedUrl": "https://amazon-in.vercel.app/",     
         },
-        {
-            "kind": "customsearch#result",
-            "title": "Facebook clone by sammed sankonatti ",
-            "link": "https://facebook-com.vercel.app/",
-            "displayLink": "www.google.com",
-            "snippet": "This project is a clone of real facebook built using NextJs and tailwind Css, i will dedicate this project to my close friend and they are the motives for building this app ",
-            "formattedUrl": "https://facebook-com.vercel.app/",
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "Facebook clone by sammed sankonatti ",
+        //     "link": "https://facebook-com.vercel.app/",
+        //     "displayLink": "www.google.com",
+        //     "snippet": "This project is a clone of real facebook built using NextJs and tailwind Css, i will dedicate this project to my close friend and they are the motives for building this app ",
+        //     "formattedUrl": "https://facebook-com.vercel.app/",
             
-        }, 
-        {
-            "kind": "customsearch#result",
-            "title": "Path finding visualizer in ReactJs ",
-            "link": "https://sammed-sankonatti.github.io/pathfinder/",
-            "displayLink": "www.google.com",
-            "snippet": " The Application for finding the shortest path between 2 nodes using various algorithms like DFS, BFS, A* etc , this is a very complex project built with  a team of 3 ....",
-            "formattedUrl": "https://sammed-sankonatti.github.io/pathfinder/",
+        // }, 
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "Path finding visualizer in ReactJs ",
+        //     "link": "https://sammed-sankonatti.github.io/pathfinder/",
+        //     "displayLink": "www.google.com",
+        //     "snippet": " The Application for finding the shortest path between 2 nodes using various algorithms like DFS, BFS, A* etc , this is a very complex project built with  a team of 3 ....",
+        //     "formattedUrl": "https://sammed-sankonatti.github.io/pathfinder/",
             
-        }, 
-        {
-            "kind": "customsearch#result",
-            "title": "Sorting visualizer ",
-            "link": "https://sammed-sankonatti.github.io/sorting-visualizer/ ",
-            "displayLink": "www.google.com",
-            "snippet": "This is a web app built to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc. The entire app is built with ReactJs. . .",
-            "formattedUrl": "https://sammed-sankonatti.github.io/sorting-visualizer/ ",
+        // }, 
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "Sorting visualizer ",
+        //     "link": "https://sammed-sankonatti.github.io/sorting-visualizer/ ",
+        //     "displayLink": "www.google.com",
+        //     "snippet": "This is a web app built to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc. The entire app is built with ReactJs. . .",
+        //     "formattedUrl": "https://sammed-sankonatti.github.io/sorting-visualizer/ ",
             
-        },
+        // },
          {
             "kind": "customsearch#result",
             "title": "Photoviewer by sammed",
@@ -198,14 +198,14 @@ export default{
             "snippet": "The application for tracking the expenses. This is a ReactJs application, it tracks both income and expense and displays them in a chart(chartJs library of react) form. It is also implemented with speechly library as it takes voice commands aswell .",
             "formattedUrl": "https://sammed-sankonatti.github.io/expense-tracker/ ",       
         }, 
-        {
-            "kind": "customsearch#result",
-            "title": "Leetcode Solutions in C++ and Javascript",
-            "link": "https://github.com/sammed-sankonatti/Leetcode ",
-            "displayLink": "www.google.com",
-            "snippet": " Github repository of Leetcode solutions in C++ and Javascript. The repository contains efficient solutions to various leetcode problems . . .",
-            "formattedUrl": "https://github.com/sammed-sankonatti/Leetcode ",  
-        }, 
+        // {
+        //     "kind": "customsearch#result",
+        //     "title": "Leetcode Solutions in C++ and Javascript",
+        //     "link": "https://github.com/sammed-sankonatti/Leetcode ",
+        //     "displayLink": "www.google.com",
+        //     "snippet": " Github repository of Leetcode solutions in C++ and Javascript. The repository contains efficient solutions to various leetcode problems . . .",
+        //     "formattedUrl": "https://github.com/sammed-sankonatti/Leetcode ",  
+        // }, 
     ]
 }
 
